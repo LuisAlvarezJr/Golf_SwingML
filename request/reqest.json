@@ -1,0 +1,11 @@
+{
+    "inputUri": "gs://alvarez-golfswingml-bucket/Golf_Swing_Clean.mp4",
+    "features": ["PERSON_DETECTION"],
+    "videoContext": {
+      "personDetectionConfig": {
+        "includeBoundingBoxes": true,
+        "includePoseLandmarks": true,
+        "includeAttributes": true
+       }
+    }
+  }
