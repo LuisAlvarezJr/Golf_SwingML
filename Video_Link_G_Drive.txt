@@ -1,3 +1,13 @@
-Link to videos used in annotation request and for Demo presentation
+Link to Google Drive
+########
+These file are too big to upload on Canvas or GitHub.
+
+#######
+
+Demo video
+Annotation results.json
+tiger.mp4
+luis.mp4 (video)
+Video-intelligence-player (x,y overlay on video playback)
 
 https://drive.google.com/drive/folders/1SWJNXoeFdYuLgM-LqBRG-xMQ2Hln09Tp?usp=sharing
