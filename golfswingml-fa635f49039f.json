@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "golfswingml",
+  "private_key_id": "fa635f49039f887d18a145d962c8e2f0c208171e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDE6TL7XNhhQEqs\nbfs0t4PoLpaZBLiJ8IFD4xr7vxQ3MviVt4D8ZnHF9ed1Mm65xuJtCEhiVQrrfJfv\nW4HCfKXCMIcnT6/uYPMhX6cwvGAI7bysh9HuXrei20/HHjZI+lGoqvVtksDQmX7E\nxSPeyuG2QS+rQudhP+rufmSjrzGDHQhvt+gZYghSSTRhjQUSTFMw5T7NDtZM9+xg\nl1IQd9ED9kfcrwz4K+Zhh86ORj1l9nl7/O+allKexMo1owXrbfB0oG+eKt+sDGj/\nusvyb6lyWS/KEYpUU6AqUhikqC7Us2+Ji/013KDrsVwAKBnbUfBydfx0iKhktRWZ\nxOsNq9tJAgMBAAECgf9ULw4B1MQLwlyWQG7owzuoX6Dn8vsNQW3MaRyFM55qMOB0\nZQZbGBLc9HPDXQj5mbY0Agxpdw0tXNpvnEqF/T2dOnLemEcsZh4SmRx8YfHVPbOA\nYFrgDhfFPlwnN1DjGDybNzhlY3oLma793MPeMhSQ3XYDyNNLg8t6U3QfDW/TbkeE\nD5KQtgOOUPPkgm86gi2BtlzL6S/uVGBJvq/t0/aUfYgy60bV55QuXZ7bfWnADLFY\n89j5kY1DFVeUE2fjGqgmDZmZF4PN35JmH++yniidIR8ntpUWLTgRe7ISnqodtpeX\npuMat82TiNyAw18BkZr90XTcbT/U6qujYE0pRSsCgYEA+t0G7oBZDGe/nOQ15iwT\n1VBcXRyLkHOTHtzk0Wnxkqa8jbxiyBw02pMhfX4ohpY/y4LuaFOzqu3B5itpSRtK\n7ZokGjuHmxOHQeim/5wqE2TWbTKHlxDJA4/7nCmCU6dYNimItIbn05d+HaUHC04X\nUnBjuCM4TfvAQyTzpRM/o0sCgYEAyPFdXRSl4f5S+U07hLSedVjh0wTg3y3OM8l2\nPPdO6cJIDZSf+heOLMhvhWpXT5Q3pNuKaOqRKF1aHUZ+WEKaQpXa6c5WjgaXuVHF\nJjBpvv964m01AVXVHWo5ACLCI5DteuQ2XAb6T+8EXNwpSqzDAScPEJAgBZm/whPy\nWHrXCzsCgYEAj4Mql/6s8r/XinWzr/2/SuUyMcJGxViY7asI7BRjsrXYYG1JRZl9\nUx2gpx4pKPWDgXVh1iUsP7jMmFR1YvFOKCdqR+eOaFT/p+DkyI4aNAYX9VhW4UEk\n/fi8xFWqzRiLClEwd7ZFoXKlH2htYzZFeU/6fDkJ2PMQxli5WdJtMYkCgYAdmA6c\nCtJzejVWKh296av8tF5t6aYEuIZJ8j3LtNCWdNqPxXfaKWXzCoICMCszuSyIxxyX\nXxSJ0VXYQe2Rqh11+QQIsy7kM+xcisJyYWbxjkbW2iaYT7/XWTGT54qYGlwfYUTw\nQMbUxurpkjMyoEcIAGyjj9ZnfMFVIALtLQpGyQKBgQDvxZL5c0c31jzpaVykQEmw\nQIjiWDviabZk4u8fnNNs6KuyyuyIKmi9JSkctri1wsdFnH8ayZBK5VFeS+13SX8I\nSKj4yms+/rIEsHt2yWTAyz4nXIcAFh1yfF7vpUOC8OqanI0UO1QJBUg2dk/R5PV+\nQ31344L7CWQmOquXr5L3Rw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "golfswingml@golfswingml.iam.gserviceaccount.com",
+  "client_id": "110810419440826458459",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/golfswingml%40golfswingml.iam.gserviceaccount.com"
+}
